@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:devstar0703/Tepe-React-Typescript.git -sd="2017/09/22, 18:54:33" -nw
